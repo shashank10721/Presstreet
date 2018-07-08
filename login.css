@@ -1,0 +1,308 @@
+
+.top
+{
+  margin-top:-1%;
+  padding:0.5px;
+}
+.topitems .one
+{
+  font-family: sans-serif;
+  position: absolute;
+ color:#333;
+ text-decoration:none;
+   margin-top:;
+  margin-left:65%;
+  font-size:13px;
+  font-weight:900;
+}
+.topitems .two
+{
+  font-family: sans-serif;
+  position: absolute;
+ color:#333;
+ text-decoration:none;
+   margin-top:;
+  margin-left:73%;
+  font-size:13px;
+  font-weight:900;
+}
+.topitems .three
+{
+  font-family: sans-serif;
+  position: absolute;
+ color:#333;
+ text-decoration:none;
+   margin-top:;
+  margin-left:80%;
+  font-size:13px;
+  font-weight:900;
+}
+.topitems .four
+{
+  font-family: sans-serif;
+  position: absolute;
+ color:#333;
+ text-decoration:none;
+   margin-top:;
+  margin-left:85%;
+  font-size:13px;
+  font-weight:900;
+}
+.topitems .one:hover
+{
+  color:tomato;
+}
+.topitems .two:hover
+{
+  color:tomato;
+}
+.topitems .three:hover
+{
+  color:tomato;
+}
+.topitems .four:hover
+{
+  color:tomato;
+}
+.top h5
+{
+  font-size:30px;
+  margin-top:45px;
+  font-weight:450;
+   font-family:sans-serif;
+  margin-left:11%;
+}
+.top img
+{
+  position:absolute;
+  margin-top:-8%;
+  margin-left:4%;
+  height:100px;
+  width: 220px;
+}
+.topmenu .first
+{
+  font-family: sans-serif;
+  position: absolute;
+ color:#333;
+ text-decoration:none;
+   margin-top:-5%;
+  margin-left:30%;
+  font-size:15px;
+  font-weight:900;
+}
+.topmenu .second
+{
+  font-family: sans-serif;
+    font-weight:900;
+  position: absolute;
+  color:#333;
+  text-decoration:none;
+  margin-top:-5%;
+   margin-left:36%;
+   font-size:15px;
+}
+.topmenu .third
+{
+  font-family: sans-serif;
+    font-weight:900;
+  font-size:15px;
+  position: absolute;
+  color:#333;
+  text-decoration:none;
+  margin-top:-5%;
+   margin-left:44%;
+}
+
+.topmenu .fourth
+{
+  font-family: sans-serif;
+    font-weight:900;
+  font-size:15px;
+  position: absolute;
+  color:#333;
+  text-decoration:none;
+  margin-top:-5%;
+   margin-left:50%;
+}
+.topmenu .first:hover
+{
+  color:tomato;
+}
+.topmenu .second:hover
+{
+  color:tomato;
+}
+.topmenu .third:hover
+{
+  color:tomato;
+}
+.topmenu .fourth:hover
+{
+  color:tomato;
+}
+.slide
+{
+  height:150px;
+  background-image:url(login2.png);
+  background-size:cover;
+  position: inherit;
+  background-color:black;
+  padding:150px;
+  margin-top:0%;
+}
+.slide h2
+{
+  color:white;
+  position: absolute;
+  top:30%;
+  left:65%;
+  font-weight: bold;
+   font-size:40px;
+   font-weight:900;
+   font-family: sans-serif;
+}
+.slide .internet
+{
+  position: absolute;
+  top:28%;
+  left:12%;
+  font-size:15px;
+  font-family: sans-serif;
+  font-weight: 900;
+  text-decoration:none;
+  color: white;
+}
+.slide .internet:hover
+{
+  color:skyblue;
+}
+.slide p
+{
+  color:white;
+  margin-top:-5%;
+  margin-left:50%;
+  font-weight: bold;
+   font-size:20px;
+}
+.slide .story
+{
+  background-color:tomato;
+padding:15px;
+ margin-top:55px;
+ margin-left:-1%;
+ width:200px;
+ border-radius:20px;
+ font-size:15px;
+ color:white;
+ font-weight:bold;
+ border:0px;
+ cursor:pointer;
+}
+.slide .story:hover
+{
+ background-color: skyblue;
+}
+.login
+{
+  position: absolute;
+  top:25%;
+  left:36%;
+  width:200px;
+ height:280px;
+ padding:50px;
+ background-color:#FBFAA2;
+box-shadow:-5px 5px 30px 20px rgba(0,0,0,0.75);
+}
+.login h1
+{
+  font-weight:700;
+  color:skyblue;
+  margin-left:-8%;
+  margin-top: -20px;
+ font-size:25px;
+ font-family:sans-serif;
+ text-shadow:1px 1px 0.4px white;
+}
+
+  .login .submit
+{
+  background-color:white;
+padding:10px;
+height:40px;
+ margin-top:99px;
+ margin-left:-1%;
+ width:100px;
+ border-radius:20px;
+ font-size:15px;
+ color:black;
+ font-weight:bold;
+ border:0px;
+ cursor:pointer;
+}
+.login .submit:hover
+{
+ background-color:tomato;
+ color:white;
+}
+.login .sign
+{
+  position:absolute;
+  top:73%;
+  left:55%;
+  background-color:tomato;
+padding:10px;
+height:40px;
+ width:100px;
+ border-radius:20px;
+ font-size:15px;
+ color:white;
+ font-weight:bold;
+ border:0px;
+ cursor:pointer;
+}
+.login .sign:hover
+{
+  background-color:white;
+  color:tomato;
+}
+.login input[type="text"]
+ {
+   margin-left: -3.5%;
+   margin-top:50px;
+   color:black;
+   width:230px;
+   height:35px;
+  font-family:sans-serif;
+  font-size:15px;
+  font-weight:bold;
+  box-shadow: 15;
+  position: absolute;
+}
+.login input[type="password"]
+{
+  margin-left: -3.5%;
+  margin-top:50px;
+  color:black;
+  width:230px;
+  height:35px;
+ font-family:sans-serif;
+ font-size:15px;
+ font-weight:bold;
+ box-shadow: 15;
+ position: absolute;
+}
+.login a
+{
+  position:absolute;
+ margin-top:15px;
+font-size:14px;
+color:Black;
+font-weight:800;
+text-decoration: none;
+font-family: sans-serif;
+}
+.login a:hover
+{
+  color:tomato;
+}
